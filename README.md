@@ -447,7 +447,7 @@ PROBLEM → UNDERSTAND → DATA → MODEL → EVALUATE → BUILD → DEPLOY → 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammlondhe2005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fe0ff&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhammlondhe2005&theme=dark&hide_border=true&background=0d1117&ring=3fe0ff&fire=3fe0ff&currStreakLabel=3fe0ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=shubhammlondhe2005&theme=dark&hide_border=true&background=0d1117&ring=3fe0ff&fire=3fe0ff&currStreakLabel=3fe0ff)
 
 </div>
 
