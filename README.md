@@ -188,22 +188,26 @@ JSPM University, Pune · `2023 – 2027`
 <br>
 
 ---
-
 ### `>> stats.render()`
 
 <div align="center">
 
 <a href="https://github.com/shubhammlondhe2005">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shubhammlondhe2005&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Shubham's GitHub Stats">
+  <img height="180"
+       src="https://github-stats-extended.vercel.app/api?username=shubhammlondhe2005&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
+       alt="Shubham's GitHub Stats">
 </a>
 
 <a href="https://github.com/shubhammlondhe2005">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammlondhe2005&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Shubham's Top Languages">
+  <img height="180"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=shubhammlondhe2005&layout=compact&theme=dark&hide_border=true&langs_count=8"
+       alt="Shubham's Top Languages">
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=shubhammlondhe2005&theme=dark&hide_border=true" alt="Shubham's GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=shubhammlondhe2005&theme=dark&hide_border=true"
+     alt="Shubham's GitHub Streak">
 
 </div>
 
