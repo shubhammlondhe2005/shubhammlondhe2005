@@ -193,9 +193,17 @@ JSPM University, Pune · `2023 – 2027`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhammlondhe2005&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9)
+<a href="https://github.com/shubhammlondhe2005">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shubhammlondhe2005&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Shubham's GitHub Stats">
+</a>
 
-![Streak](https://streak-stats.demolab.com?user=shubhammlondhe2005&theme=radical&hide_border=true&background=0d0d0d&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c)
+<a href="https://github.com/shubhammlondhe2005">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammlondhe2005&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Shubham's Top Languages">
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=shubhammlondhe2005&theme=dark&hide_border=true" alt="Shubham's GitHub Streak">
 
 </div>
 
