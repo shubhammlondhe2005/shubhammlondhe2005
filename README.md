@@ -50,7 +50,7 @@ class ShubhamLondhe:
         self.nlp_stack        = ["NLP", "Naive Bayes", "CountVectorizer", "Text Classification"]
         self.data_stack        = ["Pandas", "NumPy", "Matplotlib", "EDA"]
         self.tools               = ["Git", "GitHub", "VS Code", "Google Colab", "Jupyter"]
-        self.certified_by         = "Oracle Cloud Infrastructure -- AI Foundations Associate"
+        self.certified_by         = ["Oracle AI Foundations","Oracle AI Agent Studio","NPTEL HCI -- Elite + Gold (90%)"]
         self.currently_building     = "AI-powered Supply Chain Optimization (Final Year Project)"
 
     def philosophy(self):
