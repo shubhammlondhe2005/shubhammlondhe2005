@@ -15,6 +15,7 @@ shubham_londhe.py — AI & Machine Learning Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-shubhammlondhe2005-000000?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/shubhammlondhe2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubham--londhe555-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/shubham-londhe555)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubham--londhe.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=00ff9c)](https://shubham-londhe.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Shubhammlondhe%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:Shubhammlondhe@gmail.com)
 [![Location](https://img.shields.io/badge/Based_in-Pune,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=00ff9c)](#)
 
