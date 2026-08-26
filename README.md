@@ -291,7 +291,7 @@ JSPM University, Pune · `2023 – 2027`
 
 <div align="center">
 
-📧 **Shubhammlondhe@gmail.com** · 💼 **[linkedin.com/in/shubham-londhe555](https://linkedin.com/in/shubham-londhe555)** · 📍 **Pune, Maharashtra, India**
+📧 **Shubhammlondhe@gmail.com** · 💼 **[LinkedIn](https://linkedin.com/in/shubham-londhe555)** · 🌐 **[Portfolio](https://shubham-londhe.vercel.app/)** · 📍 **Pune, Maharashtra, India**
 
 I'm always up for talking ML systems, agentic AI, or the next hackathon idea.
 
