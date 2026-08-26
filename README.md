@@ -41,23 +41,84 @@ Final-year B.Tech student specializing in **Computer Science (Artificial Intelli
 ```python
 class ShubhamLondhe:
     def __init__(self):
-        self.role         = "AI & Machine Learning Engineer"
-        self.education     = "B.Tech CSE (AI & ML), JSPM University, Pune -- 2023-2027"
-        self.location       = "Pune, Maharashtra, India"
-        self.languages       = ["Python", "SQL"]
-        self.ml_stack        = ["Scikit-learn", "Regression", "Classification",
-                                 "Feature Engineering", "Model Evaluation"]
-        self.nlp_stack        = ["NLP", "Naive Bayes", "CountVectorizer", "Text Classification"]
-        self.data_stack        = ["Pandas", "NumPy", "Matplotlib", "EDA"]
-        self.tools               = ["Git", "GitHub", "VS Code", "Google Colab", "Jupyter"]
-        self.certified_by         = ["Oracle AI Foundations","Oracle AI Agent Studio","NPTEL HCI -- Elite + Gold (90%)"]
-        self.currently_building     = "AI-powered Supply Chain Optimization (Final Year Project)"
+
+        # 👤 Identity
+        self.role = "AI & Machine Learning Engineer"
+        self.location = "Pune, Maharashtra, India"
+        self.education = "B.Tech CSE (AI & ML) | JSPM University | 2023-2027"
+
+        # 💻 Programming
+        self.languages = [
+            "Python",
+            "SQL"
+        ]
+
+        # 🤖 Machine Learning
+        self.machine_learning = [
+            "Scikit-learn",
+            "Regression",
+            "Classification",
+            "Feature Engineering",
+            "Model Evaluation",
+            "Predictive Analytics"
+        ]
+
+        # 🧠 NLP
+        self.nlp = [
+            "Natural Language Processing",
+            "Naive Bayes",
+            "CountVectorizer",
+            "Text Classification"
+        ]
+
+        # 📊 Data & Analytics
+        self.data = [
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Exploratory Data Analysis"
+        ]
+
+        # ✨ Generative & Agentic AI
+        self.ai = [
+            "Generative AI",
+            "Agentic AI",
+            "Prompt Engineering"
+        ]
+
+        # 🛠️ Tools & Environment
+        self.tools = [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Jupyter",
+            "Google Colab"
+        ]
+
+        # 🎓 Certifications
+        self.certifications = [
+            "Oracle AI Foundations",
+            "Oracle AI Agent Studio",
+            "NPTEL HCI — Elite + Gold (90%)"
+        ]
+
+        # 🚀 Current Project
+        self.currently_building = (
+            "AI-powered Supply Chain Optimization"
+        )
+
+        # 📚 Currently Learning
+        self.currently_learning = [
+            "Generative AI",
+            "Agentic AI",
+            "MLOps"
+        ]
 
     def philosophy(self):
-        return "Don't just train a model -- understand it, ship it, improve it."
-```
-
-<br>
+        return (
+            "Don't just train a model — "
+            "understand it, ship it, improve it."
+        )
 
 ---
 
