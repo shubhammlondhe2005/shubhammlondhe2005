@@ -20,7 +20,7 @@ shubham_londhe.py — AI & Machine Learning Engineer
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Python+%7C+NLP+%7C+Data+Analytics+%7C+Agentic+AI;Turning+messy+data+into+working+intelligence.;Oracle+AI+Certified+%7C+Final-Year+B.Tech+Student." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Python+%7C+NLP+%7C+Data+Analytics+%7C+Generative+AI;Agentic+AI+%7C+Machine+Learning+%7C+Cloud;Building+intelligent%2C+data-driven+systems.;Oracle+AI+Certified+%7C+NPTEL+Elite+%2B+Gold." alt="Typing SVG">
 
 </div>
 
@@ -30,7 +30,7 @@ shubham_londhe.py — AI & Machine Learning Engineer
 
 ### `>> summary.print()`
 
-Final-year B.Tech student specializing in **Computer Science (Artificial Intelligence & Machine Learning)**, with hands-on experience across Python, Machine Learning, NLP, Data Analytics, and Agentic AI. I've built AI-driven solutions through academic research, Smart India Hackathon participation, and AICTE virtual internships — currently developing an AI-powered supply chain optimization system for perishable goods as my final-year project. Oracle AI Certified, with strong foundations in supervised learning, feature engineering, predictive analytics, and workflow automation. I care about building intelligent, scalable, data-driven solutions for healthcare, retail, and enterprise use cases.
+B.Tech CSE (AI & ML) student with hands-on experience across Python, Machine Learning, NLP, Data Analytics, Generative AI and Agentic AI. I build AI-driven solutions through academic projects, hackathons and AICTE/EduSkills virtual internships, and I'm currently developing an AI-powered supply chain optimization system for perishable goods. Oracle AI Certified and NPTEL Elite + Gold (90%), with additional training across AWS, NASA ARSET, TCS iON and upGrad × Microsoft. Interested in building practical, scalable and data-driven intelligent systems.
 
 <br>
 
@@ -119,6 +119,9 @@ class ShubhamLondhe:
             "Don't just train a model — "
             "understand it, ship it, improve it."
         )
+```
+
+<br>
 
 ---
 
@@ -186,6 +189,11 @@ NLP-based spam email classifier built with Naive Bayes and CountVectorizer, eval
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=00ff9c)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logoColor=00ff9c)
 
+**Generative & Agentic AI**
+![Generative AI](https://img.shields.io/badge/-Generative_AI-000000?style=flat-square&logoColor=00ff9c)
+![Agentic AI](https://img.shields.io/badge/-Agentic_AI-000000?style=flat-square&logoColor=00ff9c)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-000000?style=flat-square&logoColor=00ff9c)
+
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00ff9c)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=00ff9c)
@@ -226,11 +234,13 @@ JSPM University, Pune · `2023 – 2027`
 
 - 🎓 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - 🎓 Oracle Fusion AI Agent Studio Certified Foundations Associate
-- 🎓 Human Computer Interaction — Elite 90% — NPTEL
+- 🎓 Human Computer Interaction — Elite + Gold (90%) — NPTEL
 - 🎓 Machine Learning & Data Science Virtual Internship — AICTE × EduSkills
 - 🎓 AI-ML Virtual Internship — AICTE × EduSkills
 - 🎓 AWS Academy Machine Learning Foundations
 - 🎓 AWS Academy Cloud Foundations
+- 🎓 NASA ARSET — Remote Sensing Training
+- 🎓 TCS iON — AI Foundation
 - 🎓 Generative AI Foundations — upGrad × Microsoft
 
 <br>
@@ -241,7 +251,7 @@ JSPM University, Pune · `2023 – 2027`
 
 - 🏆 Smart India Hackathon (SIH) — Participant
 - 🏆 EntrepreNex 2026 Startup Fest — Participant
-- 🏆 Elite (90%) in Human Computer Interaction — NPTEL
+- 🏆 Elite + Gold (90%) in Human Computer Interaction — NPTEL
 - 🏆 AICTE AI-ML & ML/Data Science Virtual Internships — Completed
 - 🏆 Oracle AI Foundations & AI Agent Studio — Certified
 - 🤝 Volunteer — college technical and cultural events
